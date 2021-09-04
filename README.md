@@ -13,4 +13,5 @@ params: {
         'decimals': '18',
         'image': 'https://bscscan.com/token/images/loomtoken_32.png',
     },
-}```
+}
+```
